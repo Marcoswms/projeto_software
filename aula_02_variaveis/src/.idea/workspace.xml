@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="a7e1ee04-e296-4963-9d00-8b9527b36586" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2tH5FPEewv5Z0RcIM7kYsckjvYt" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.AreaPerimetro.executor": "Run",
+    "Application.CalculadoraDeJuros.executor": "Run",
+    "Application.ConvercaoTemperatura.executor": "Run",
+    "Application.JurosCompostos.executor": "Run",
+    "Application.MediaDeAluno.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "last_opened_file_path": "C:/Users/Marcos/Documents/IntelliJ_Projetos/Exercicios_Java/atividades_assimilacao/vetores_estudo"
+  }
+}]]></component>
+  <component name="RunManager" selected="Application.AreaPerimetro">
+    <configuration name="AreaPerimetro" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.AreaPerimetro" />
+      <module name="aula_02_variaveis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculadoraDeJuros" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.CalculadoraDeJuros" />
+      <module name="aula_02_variaveis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MediaDeAluno" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicios.MediaDeAluno" />
+      <module name="aula_02_variaveis" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicios.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.AreaPerimetro" />
+        <item itemvalue="Application.CalculadoraDeJuros" />
+        <item itemvalue="Application.MediaDeAluno" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a7e1ee04-e296-4963-9d00-8b9527b36586" name="Changes" comment="" />
+      <created>1739996054540</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1739996054540</updated>
+    </task>
+    <servers />
+  </component>
+</project>
