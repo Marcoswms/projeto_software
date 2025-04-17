@@ -49,12 +49,15 @@ public class Roupa {
 
     public void adicinaQuantidade(int quantidade){
         this.quantidade += quantidade;
-        valorTotal();
     }
 
     public void removeQuantidade(int quantidade){
-        this.quantidade -= quantidade;
-        valorTotal();
+        if (quantidade >= 0 && quantidade < this.quantidade ){
+            this.quantidade -= quantidade;
+        }
+        else{
+            System.out.println("Verifique a quantidade informada.\nCancelando Ação!");
+        }
     }
 
     public void valorTotal(){
